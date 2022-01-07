@@ -1,0 +1,30 @@
+import {Link} from 'react-router-dom';
+import React from "react";
+import MintGreenCelebrationSquiggles from "./images/MintGreenCelebrationSquiggles.png";
+
+
+
+function Game_3(){
+	return(
+		<div style = {{	backgroundImage: `url(${MintGreenCelebrationSquiggles})`, background: 'cover',
+		display: "flex",
+		alignItems: "center",
+		justifyContent: "center",
+		flexDirection: "column",
+		height: "10%",
+		width: "100%",
+		overflowX: "hidden",
+	  backgroundSize: '60%'
+    }}>
+		<div style={{padding:"5%"}}></div>
+
+
+
+
+		<div style={{padding:"100vh"}}></div>
+
+	</div>
+	);
+}
+
+export default Game_3;
