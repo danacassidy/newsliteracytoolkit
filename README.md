@@ -6,6 +6,6 @@ I created this project from scratch -- writing, building, designing, etc. it -- 
 
 I taught myself ReactJS and its adjacent libraries in order to build this website. It is currently in the process of being updated for final submissions later this spring.
 
-I enjoy having everything where I can see it, hence a lot of my in-line CSS. It's a habit i'm trying to break.
+I enjoy having everything where I can see it, hence why there is a lot of in-line CSS alongside my CSS sheets. It's a habit i'm trying to break.
 
 Please feel free to contact me at danacassidy1@gmail.com with any questions or thoughts about the project. Thanks!
